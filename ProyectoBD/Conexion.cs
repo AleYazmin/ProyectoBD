@@ -13,7 +13,7 @@ namespace ProyectoBD
             try
             {
                 // Configura la cadena de conexión con el tiempo de espera
-                cnx.ConnectionString = "Data Source=LAPTOP-MJQABIHM\\SQLEXPRESS; Initial Catalog=VentasVehiculos;Integrated Security=True;Connect Timeout=180";
+                cnx.ConnectionString = "Data Source=LAPTOP-MJQABIHM\\SQLEXPRESS; Initial Catalog=VentasVehiculos;Integrated Security=True;Connect Timeout=800";
 
                 // Abre la conexión
                 cnx.Open();

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALE\\Desktop\\pro\\Proyecto\\ProyectoBDCSharp\\ProyectoBD\\ProyectoBD.csproj": {}
+    "C:\\Users\\ALE\\Desktop\\ProyectoCSharp\\ProyectoBD\\ProyectoBD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALE\\Desktop\\pro\\Proyecto\\ProyectoBDCSharp\\ProyectoBD\\ProyectoBD.csproj": {
+    "C:\\Users\\ALE\\Desktop\\ProyectoCSharp\\ProyectoBD\\ProyectoBD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALE\\Desktop\\pro\\Proyecto\\ProyectoBDCSharp\\ProyectoBD\\ProyectoBD.csproj",
+        "projectUniqueName": "C:\\Users\\ALE\\Desktop\\ProyectoCSharp\\ProyectoBD\\ProyectoBD.csproj",
         "projectName": "ProyectoBD",
-        "projectPath": "C:\\Users\\ALE\\Desktop\\pro\\Proyecto\\ProyectoBDCSharp\\ProyectoBD\\ProyectoBD.csproj",
+        "projectPath": "C:\\Users\\ALE\\Desktop\\ProyectoCSharp\\ProyectoBD\\ProyectoBD.csproj",
         "packagesPath": "C:\\Users\\ALE\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALE\\Desktop\\pro\\Proyecto\\ProyectoBDCSharp\\ProyectoBD\\obj\\",
+        "outputPath": "C:\\Users\\ALE\\Desktop\\ProyectoCSharp\\ProyectoBD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALE\\AppData\\Roaming\\NuGet\\NuGet.Config",
